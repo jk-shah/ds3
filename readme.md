@@ -19,7 +19,7 @@ Full details are included in the various readme files in the
 DS3 subdirectories.
 
 DVD Store 3 will support Oracle, MySQL, SQL Server, and
-PostGres databases when complete.  
+PostgreSQL databases when complete.  
 
 As of this update in July 2015, Oracle and MySQL support is
 complete.
